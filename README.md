@@ -34,7 +34,7 @@ I love exploring datasets, building ML models, and turning raw data into meaning
 
 ## 🌐 Connect with Me  
 - 🐙 [GitHub](https://github.com/abdullahq-mlworks)  
-- 📧 [Email](qaiserabdullah218@gmail.com)   
+- 📧 [Email](abdullah.q.mlworks@gmail.com)   
 
 ---
 
